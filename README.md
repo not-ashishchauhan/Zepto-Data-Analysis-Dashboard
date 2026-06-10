@@ -26,9 +26,6 @@ This project analyzes **Zepto's sales performance** using Power BI. The dashboar
 * How many items are sold across different product categories?
 
 ---
-## 📷 Dashboard Preview
-
-![Zepto Dashboard](dashboard_output.jpeg)
 
 ## 📊 Dashboard Features
 
@@ -89,7 +86,7 @@ This project analyzes **Zepto's sales performance** using Power BI. The dashboar
 
 ## 📷 Dashboard Preview
 
-![Zepto Dashboard](dashboard_output.png)
+![Zepto Dashboard](dashboard_output.jpeg)
 
 ---
 
@@ -104,9 +101,11 @@ This project analyzes **Zepto's sales performance** using Power BI. The dashboar
 
 ## 📁 Files Included
 
-* `Zepto_Sales_Dashboard.pbix`
-* `Zepto_Sales_Data.xlsx`
-* `dashboard_output.png`
+* `zepto_better_dash.pbix`
+* `Zepto_Dataset.xlsx`
+* 'zepto_master_clean'
+* `dashboard_output.jpeg`
+* 'zepto.ipynb'
 * `README.md`
 
 ---
