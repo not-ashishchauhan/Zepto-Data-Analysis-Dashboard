@@ -41,7 +41,7 @@ This project analyzes **Zepto's sales performance** using Power BI. The dashboar
 ---
 ## 📷 Dashboard Preview
 
-![Zepto Dashboard](zepto_dashboard.jpeg)
+![Zepto Dashboard](dashboard_output.jpeg)
 
 ## 📊 Dashboard Features
 
