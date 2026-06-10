@@ -1,19 +1,6 @@
 # 📊 Zepto Sales Dashboard (Power BI)
 
 
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-No wrap
-Editing README.md file contents
-Selection deleted
-  
 ## 🔍 Overview
 
 This project analyzes **Zepto's sales performance** using Power BI. The dashboard provides actionable insights into sales trends, customer behavior, product category performance, and order metrics. It is designed to help stakeholders make data-driven decisions through interactive visualizations and KPIs.
